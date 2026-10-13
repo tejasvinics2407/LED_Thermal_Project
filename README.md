@@ -94,8 +94,5 @@ The current implementation uses generated telemetry data and is designed to serv
               v                     v
        Thermal Status       Maintenance
         Monitoring          Recommendation
----
-## PROJECT DONE BY
-THARUSHREE S - VIT CHENNAI
-TEJASVINI C S - VIT CHENNAI
+
 
